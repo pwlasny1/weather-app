@@ -1,5 +1,6 @@
 # weather-app
 
-include weather api
-css interface
-change city for information
+#html #css #javascript #api<br>
+include weather api<br>
+css interface<br>
+change city for information<br>
